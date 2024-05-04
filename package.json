@@ -17,7 +17,7 @@
     "cors"
   ],
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "author": "Connor Hudson",
   "license": "MIT",
