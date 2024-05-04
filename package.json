@@ -16,6 +16,9 @@
   "keywords": [
     "cors"
   ],
+  "engines": {
+    "node": "14.x"
+  },
   "author": "Connor Hudson",
   "license": "MIT",
   "bugs": {
